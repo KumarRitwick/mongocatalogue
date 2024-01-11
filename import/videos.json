@@ -1,5 +1,8 @@
-{"video":{"server":1,"ip":"34.154.124.248","Name":"Big Buck Bunny","file":"BigBuckBunny_320x180.mp4","thumb":"bbb-th.png","pic":"bbb.png","uuid":"380613d5-71b3-4f24-8a58-ca1a260b49d3","category":"cassandra","category":"shorts"}}
+{"video":{"server":1,"ip":"34.154.124.248","Name":"Big Buck Bunny","file":"BigBuckBunny_320x180.mp4","thumb":"bbb-th.png","pic":"bbb.png","uuid":"380613d5-71b3-4f24-8a58-ca1a260b49d3","category":"cartoon","category":"shortcartoon"}}
 {"video":{"server":2,"ip":"34.154.124.248","Name":"1934 - No Fare.ia","file":"1934 - No Fare.ia.mp4","thumb":"cloningaprojectintonetbeans-th.png","pic":"cloningaprojectintonetbeans.png","uuid":"08d205c9-cc33-4475-ba25-d24ff0426470","category":"cassandra"} }
 {"video":{"server":3,"ip":"34.154.124.248","Name":"Steamboat Willie","file":"Steamboat Willie.mp4","thumb":"installingandstartingcassandra-on-mac-th.png","pic":"installingandstartingcassandra-on-mac.png","uuid":"38a817da-7728-4658-9ecd-44cf638daa81","category":"cassandra"}}
 {"video":{"server":4,"ip":"34.154.124.248","Name":"The Simpsons","file":"The Simpsons.mp4","thumb":"runningcassandraonapc-th.png","pic":"runningcassandraonapc.png","uuid":"31053444-4b35-4336-860b-db62f2aa8d4a","category":"cassandra"}}
 {"video":{"server":4,"ip":"34.154.124.248","Name":"THOMAS_WILD_WATER_RESCUE","file":"THOMAS_WILD_WATER_RESCUE.mp4","thumb":"erlang1-th.png","pic":"erlang1.png","uuid":"45fcbe1d-3f94-4f42-89c4-2972db60c961","category":"erlang"}}
+{"category":"cartoon"}
+{"category":"movie"}
+{"category":"shortcartoon"}
